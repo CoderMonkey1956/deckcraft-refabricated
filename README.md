@@ -9,8 +9,8 @@ A: It comes from a discontinued modpack called [DeckCraft](https://modrinth.com/
 Q: What mods are used in this modpack?  
 A: You can find a full list of mods [here]()  
 
-Q: Can I contribute to this progect?  
-A: I am well open to contributions! Just open a pull request or create an issuie if you have any ideas/improvements.  
+Q: Can I contribute to this project?  
+A: I am well open to contributions! Just open a pull request or create an issuie if you have any ideas/improvements. Or a typo (a lot lf this was written on a Steam Deck). 
 
 Q: Is there any extra setup needed once I install this?  
 A: In some cases, yes. [Click Here](performance.md) for a list of more improvements for maximum performance.  
