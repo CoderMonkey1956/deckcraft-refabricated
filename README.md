@@ -13,7 +13,7 @@ Q: Can I contribute to this project?
 A: I am well open to contributions! Just open a pull request or create an issuie if you have any ideas/improvements. Or a typo (a lot lf this was written on a Steam Deck). 
 
 Q: Is there any extra setup needed once I install this?  
-A: In some cases, yes. [Click Here](performance.md) for a list of more improvements for maximum performance.  
+A: In some cases, yes. [Click Here](https://github.com/CoderMonkey1956/deckcraft-reforged/wiki/Performance-Improvements) for a list of more improvements for maximum performance.  
 
 # Additional Info
 As you may have noticed, im pretty bad with Github and Modpacks (I had to do a lot of Googleing while making this) so any help is greatly appreciated!
