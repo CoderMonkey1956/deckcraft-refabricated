@@ -4,7 +4,7 @@ A performance and ease-of-use modpack for the Steam Deck.
 In this modpack I included some more unknown-ish (I promise im not trying to offend anyone) mods such as [ScalableLux](https://modrinth.com/mod/scalablelux) and [Faster Random](https://modrinth.com/mod/faster-random)
 # ⁉️ FAQ (Frequency Asked Questions)
 Q: Where does the name come from?  
-A: It comes from a discontinued modpack called [DeckCraft](https://modrinth.com/modpack/deckcraft) by [devin](https://modrinth.com/user/devin) in favor of [Additive](https://modrinth.com/modpack/additive) 
+A: It comes from a discontinued modpack called [DeckCraft](https://modrinth.com/modpack/deckcraft) by [devin](https://modrinth.com/user/devin) in favor of [Additive](https://modrinth.com/modpack/additive) **But it is not a fork**
 
 Q: What mods are used in this modpack?  
 A: You can find a full list of mods [here]()  
