@@ -17,6 +17,9 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+**Version**
+Please list your modpack version here (ex. 1.21.1-1.0.0)
+
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
