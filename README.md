@@ -18,4 +18,4 @@ A: In some cases, yes. [Click Here](https://github.com/CoderMonkey1956/deckcraft
 # Additional Info
 As you may have noticed, im pretty bad with Github and Modpacks (I had to do a lot of Googleing while making this) so any help is greatly appreciated!
 
-Apparently "reforged" means it's made for the(Neo)Forge mod loader. I ditn't know that when I was making this, this is for Fabric
+Apparently "reforged" means it's made for the (Neo)Forge mod loader. I didn't know that when I was making this, this is for Fabric
