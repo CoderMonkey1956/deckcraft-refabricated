@@ -9,7 +9,7 @@ A: It comes from a discontinued modpack called [DeckCraft](https://modrinth.com/
 Q: What mods are used in this modpack?  
 A: You can find a full list of mods [here](https://github.com/CoderMonkey1956/deckcraft-reforged/wiki/Mod-List)  
 
-Q: What is the "rework"
+Q: What is the "rework"  
 A: The first release was built completely from scratch, but the "rework" refers to any version after 1.21.1-1.0.0 which was made to be a heavily modified fork of [Fabulously Optimized by the Fabulously Optimized team](https://modrinth.com/modpack/fabulously-optimized)
 
 Q: Can I contribute to this project?  
