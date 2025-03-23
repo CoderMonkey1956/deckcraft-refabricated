@@ -9,6 +9,9 @@ A: It comes from a discontinued modpack called [DeckCraft](https://modrinth.com/
 Q: What mods are used in this modpack?  
 A: You can find a full list of mods [here]()  
 
+Q: What is the "rework"
+A: The first release was built completely from scratch, but the "rework" refers to any version after 1.21.1-1.0.0 which was made to be a heavily modified fork of [Fabulously Optimized by the Fabulously Optimized team](https://modrinth.com/modpack/fabulously-optimized)
+
 Q: Can I contribute to this project?  
 A: I am well open to contributions! Just open a pull request or create an issuie if you have any ideas/improvements. Or a typo (a lot lf this was written on a Steam Deck). 
 
