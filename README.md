@@ -1,7 +1,7 @@
 # DeckCraft Reforged
 A performance and ease-of-use modpack for the Steam Deck.
 # ❓ But why DR?
-In this modpack I included some more unknown-ish (I promise im not trying to offend anyone) mods such as [ScalableLux](https://modrinth.com/mod/scalablelux) and [Faster Random](https://modrinth.com/mod/faster-random) It also has verry good support for optifine texture packs/shaders
+In this modpack I included some more unknown-ish (I promise im not trying to offend anyone) mods such as [ScalableLux](https://modrinth.com/mod/scalablelux) and [Faster Random](https://modrinth.com/mod/faster-random) It also has support for many/most Optifine features.
 # ⁉️ FAQ (Frequency Asked Questions)
 Q: Where does the name come from?  
 A: It comes from a discontinued modpack called [DeckCraft](https://modrinth.com/modpack/deckcraft) by [devin](https://modrinth.com/user/devin) in favor of [Additive](https://modrinth.com/modpack/additive) **But it is not a fork**
