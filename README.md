@@ -18,6 +18,9 @@ A: I am well open to contributions! Just open a pull request or create an issue 
 Q: Is there any extra setup needed once I install this?  
 A: In some cases, yes. [Click Here](https://github.com/CoderMonkey1956/deckcraft-reforged/wiki/Performance-Improvements) for a list of more improvements for maximum performance.  
 
+Q: What's the update schedule?  
+A: Whenever a release (no beta/alpha) comes out for FO, then it may take a day or 2 bc there is a lot that goes into making this. I will update as quickly as I can though.  
+
 # Additional Info
 As you may have noticed, im pretty bad with Github and Modpacks in general (I had to do a lot of Googleing while making this) so any help is greatly appreciated!
 
