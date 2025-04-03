@@ -21,6 +21,9 @@ A: In some cases, yes. [Click Here](https://github.com/CoderMonkey1956/deckcraft
 Q: What's the update schedule?  
 A: Whenever a release (no beta/alpha) comes out for FO, then it may take a day or 2 because  there is a lot that goes into making this. I will update as quickly as I can though.  
 
+Q: What are the goals of this modpack?  
+A: Theres a few, the first is to provide the best possible performance on the Steam Deck (duh), be a drop in replacement for most optifine features, optimize almost every aspect of the game, and to be open about development and be an active part of the community.  
+
 # Additional Info
 As you may have noticed, im pretty bad with Github and Modpacks in general (I had to do a lot of Googleing while making this) so any help is greatly appreciated!
 
