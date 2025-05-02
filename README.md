@@ -1,3 +1,5 @@
+# Promise I didn't forget about this, just waiting for the mods to be updated. (Install the Alpha/Beta if you want)
+
 # DeckCraft Reforged
 A performance and ease-of-use modpack for the Steam Deck.
 # ❓ But why DR?
